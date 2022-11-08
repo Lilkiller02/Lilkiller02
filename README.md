@@ -31,7 +31,7 @@
 #### Link del deploy :  https://carsmarket.vercel.app/
 
 
-## ¿Te interesa mi perfil? ¡No dudes en contactarme! 📩😉
+## ¿Te interesa mi perfil? ¡No dudes en contactarme!
 
 - WhatsApp: +54 1122341170
 - LinkedIn: https://www.linkedin.com/in/franco-navarro-581111247/
